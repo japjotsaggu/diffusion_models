@@ -3,6 +3,7 @@
 A deep learning coursework project implementing generative models from scratch, culminating in a **Latent Diffusion Model (LDM)** capable of generating hot dog images.
 
 Note: This repository contains my coursework submission for the Deep Learning module (70010 | Faculty of Engineering) at Imperial College London.
+
 ---
 
 ## Overview
